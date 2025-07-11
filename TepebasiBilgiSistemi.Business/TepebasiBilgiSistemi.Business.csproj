@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TepebasiBilgiSistemi.Core\TepebasiBilgiSistemi.Core.csproj" />
+    <ProjectReference Include="..\TepebasiBilgiSistemi.DataAccess\TepebasiBilgiSistemi.DataAccess.csproj" />
+    <ProjectReference Include="..\TepebasiBilgiSistemi.Entities\TepebasiBilgiSistemi.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

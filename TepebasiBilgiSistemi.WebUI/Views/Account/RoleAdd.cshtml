@@ -1,0 +1,41 @@
+﻿@model TepebasiBilgiSistemi.WebUI.Models.AccountViewModel.RoleAddViewModel
+@{	
+}
+
+<div class="col-12">
+	<form method="post" asp-action="RoleAdd" asp-controller="Account" enctype="multipart/form-data" class="settings-form">
+<div class="app-card app-card-account shadow-sm d-flex flex-column align-items-start">
+	<div class="app-card-header p-3 border-bottom-0">
+		<div class="row align-items-center gx-3">
+			<div class="col-auto">
+				<div class="app-icon-holder">
+							<i style="font-size:4em;" class="fa-regular fa-id-badge"></i>
+					
+				</div><!--//icon-holder-->
+
+			</div><!--//col-->
+			<div class="col-auto">
+				<h4 class="app-card-title">Rol Ekleme</h4>
+			</div><!--//col-->
+		</div><!--//row-->
+	</div><!--//app-card-header-->
+	<div class="app-card-body px-4 w-100">
+
+			
+				<div class="mb-3">
+					<label for="setting-input-1" class="form-label">
+						Rol Adı<span class="ms-2" data-bs-container="body" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-placement="top" data-bs-content="This is a Bootstrap popover example. You can use popover to provide extra info.">					
+						</span>
+					</label>
+					<input asp-for="IdentityRole.Name" type="text" class="form-control" id="setting-input-1" placeholder="Rol Adı" required>
+				</div>
+
+		
+	</div><!--//app-card-body-->
+	<div class="app-card-footer p-4 mt-auto">
+				<button type="submit" class="btn app-btn-primary">Kaydet</button>
+	</div><!--//app-card-footer-->
+
+</div><!--//app-card-->
+	</form>
+</div><!--//col-->

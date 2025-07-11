@@ -1,0 +1,16 @@
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.Entities\bin\Debug\net9.0\TepebasiBilgiSistemi.Entities.deps.json
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.Entities\bin\Debug\net9.0\TepebasiBilgiSistemi.Entities.dll
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.Entities\bin\Debug\net9.0\TepebasiBilgiSistemi.Entities.pdb
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.Entities\bin\Debug\net9.0\TepebasiBilgiSistemi.Core.dll
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.Entities\bin\Debug\net9.0\TepebasiBilgiSistemi.Core.pdb
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.Entities\obj\Debug\net9.0\TepebasiBilgiSistemi.Entities.csproj.AssemblyReference.cache
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.Entities\obj\Debug\net9.0\TepebasiBilgiSistemi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.Entities\obj\Debug\net9.0\TepebasiBilgiSistemi.Entities.AssemblyInfoInputs.cache
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.Entities\obj\Debug\net9.0\TepebasiBilgiSistemi.Entities.AssemblyInfo.cs
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.Entities\obj\Debug\net9.0\TepebasiBilgiSistemi.Entities.csproj.CoreCompileInputs.cache
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.Entities\obj\Debug\net9.0\EFCoreNpgsqlNetTopologySuite.cs
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.Entities\obj\Debug\net9.0\Tepebasi.B1E5F85D.Up2Date
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.Entities\obj\Debug\net9.0\TepebasiBilgiSistemi.Entities.dll
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.Entities\obj\Debug\net9.0\refint\TepebasiBilgiSistemi.Entities.dll
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.Entities\obj\Debug\net9.0\TepebasiBilgiSistemi.Entities.pdb
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.Entities\obj\Debug\net9.0\ref\TepebasiBilgiSistemi.Entities.dll

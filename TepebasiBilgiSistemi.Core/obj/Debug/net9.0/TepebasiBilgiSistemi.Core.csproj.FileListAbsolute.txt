@@ -1,0 +1,12 @@
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.Core\bin\Debug\net9.0\TepebasiBilgiSistemi.Core.deps.json
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.Core\bin\Debug\net9.0\TepebasiBilgiSistemi.Core.dll
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.Core\bin\Debug\net9.0\TepebasiBilgiSistemi.Core.pdb
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.Core\obj\Debug\net9.0\TepebasiBilgiSistemi.Core.csproj.AssemblyReference.cache
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.Core\obj\Debug\net9.0\TepebasiBilgiSistemi.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.Core\obj\Debug\net9.0\TepebasiBilgiSistemi.Core.AssemblyInfoInputs.cache
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.Core\obj\Debug\net9.0\TepebasiBilgiSistemi.Core.AssemblyInfo.cs
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.Core\obj\Debug\net9.0\TepebasiBilgiSistemi.Core.csproj.CoreCompileInputs.cache
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.Core\obj\Debug\net9.0\TepebasiBilgiSistemi.Core.dll
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.Core\obj\Debug\net9.0\refint\TepebasiBilgiSistemi.Core.dll
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.Core\obj\Debug\net9.0\TepebasiBilgiSistemi.Core.pdb
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.Core\obj\Debug\net9.0\ref\TepebasiBilgiSistemi.Core.dll

@@ -1,0 +1,17 @@
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.DataAccess\bin\Debug\net9.0\TepebasiBilgiSistemi.DataAccess.deps.json
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.DataAccess\bin\Debug\net9.0\TepebasiBilgiSistemi.DataAccess.dll
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.DataAccess\bin\Debug\net9.0\TepebasiBilgiSistemi.DataAccess.pdb
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.DataAccess\bin\Debug\net9.0\TepebasiBilgiSistemi.Core.dll
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.DataAccess\bin\Debug\net9.0\TepebasiBilgiSistemi.Entities.dll
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.DataAccess\bin\Debug\net9.0\TepebasiBilgiSistemi.Core.pdb
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.DataAccess\bin\Debug\net9.0\TepebasiBilgiSistemi.Entities.pdb
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.DataAccess\obj\Debug\net9.0\TepebasiBilgiSistemi.DataAccess.csproj.AssemblyReference.cache
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.DataAccess\obj\Debug\net9.0\TepebasiBilgiSistemi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.DataAccess\obj\Debug\net9.0\TepebasiBilgiSistemi.DataAccess.AssemblyInfoInputs.cache
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.DataAccess\obj\Debug\net9.0\TepebasiBilgiSistemi.DataAccess.AssemblyInfo.cs
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.DataAccess\obj\Debug\net9.0\TepebasiBilgiSistemi.DataAccess.csproj.CoreCompileInputs.cache
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.DataAccess\obj\Debug\net9.0\Tepebasi.68EA3B7A.Up2Date
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.DataAccess\obj\Debug\net9.0\TepebasiBilgiSistemi.DataAccess.dll
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.DataAccess\obj\Debug\net9.0\refint\TepebasiBilgiSistemi.DataAccess.dll
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.DataAccess\obj\Debug\net9.0\TepebasiBilgiSistemi.DataAccess.pdb
+D:\NewWorkspace\TepebasiBilgiSistemi\TepebasiBilgiSistemi.DataAccess\obj\Debug\net9.0\ref\TepebasiBilgiSistemi.DataAccess.dll

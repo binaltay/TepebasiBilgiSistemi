@@ -1,0 +1,92 @@
+﻿@model TepebasiBilgiSistemi.WebUI.Models.MudurlukViewModels.MudurlukIndexViewModel
+
+@section Style {
+	<link href="~/plugins/datatables/datatables.min.css" rel="stylesheet" />
+}
+
+<div class="col-12">
+	<div class="app-card app-card-stats-table h-100 shadow-sm">
+		<div class="app-card-header p-3">
+			<div class="row justify-content-between align-items-center">
+				<div class="col-auto">
+					<div class="app-icon-holder">
+						<i style="font-size:4em;" class="fa-solid fa-building-flag"></i>
+					</div>
+					
+				</div><!--//col-->
+				<div class="col-auto">					
+					<h4 class="app-card-title">
+						Müdürlükler					
+					</h4>
+				</div><!--//col-->
+				<div class="col-auto">
+					<div class="card-header-action">
+						<a href="~/Mudurluk/Create">Müdürlük Ekle</a>
+					</div><!--//card-header-actions-->
+				</div><!--//col-->
+			</div><!--//row-->
+		</div><!--//app-card-header-->
+
+			<div class="app-card-body px-4 w-100">
+
+			<div class="table-responsive">
+				<table id="datatables" class="table mb-0 text-left">
+					<thead>
+						<tr>
+							<th class="cell">Renk</th>
+							<th class="cell">Adı</th>
+							<th class="cell">Düzen</th>
+						</tr>
+					</thead>
+					<tbody>
+						@foreach (var mudurluk in Model.MudurlukList)
+						{
+							<tr>
+								<td class="cell"><i style="font-size:2em;color:@mudurluk.Color;" class="fa-solid fa-square"></i></td>
+								<td style="line-height:2em;" class="cell">@mudurluk.Name</td>
+								<td style="font-size:1.4em;" class="cell">
+									<a asp-action="Edit" asp-route-id="@mudurluk.Id"><i class="text-warning fa-solid fa-pencil"></i></a>
+								</td>
+							</tr>
+						}						
+					</tbody>
+					<tfoot>
+						<tr>
+							<th class="cell">Renk</th>
+							<th class="cell">Adı</th>
+							<th class="cell">Düzen</th>
+						</tr>
+					</tfoot>
+				</table>
+			</div><!--//table-responsive-->
+
+
+			</div><!--//app-card-body-->
+
+		<div class="app-card-footer p-4 mt-auto">
+		</div><!--//app-card-footer-->
+		</div><!--//app-card-->
+</div><!--//col-->
+
+
+@section Scripts {
+
+	<script src="~/plugins/datatables/datatables.min.js"></script>
+
+	<script>
+		window.onload = function () {
+			$('#datatables').DataTable({
+				"pagingType": "full_numbers",
+				"lengthMenu": [[10, 25, 50, -1], [10, 25, 50, "All"]],
+				responsive: true,
+				language: {
+
+					url: '//cdn.datatables.net/plug-ins/1.10.13/i18n/Turkish.json'
+
+				}
+			});
+		}
+	</script>
+}
+
+

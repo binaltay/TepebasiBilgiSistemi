@@ -1,0 +1,945 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.business\\concrete\\mahallemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|solutionrelative:tepebasibilgisistemi.business\\concrete\\mahallemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.business\\concrete\\kursmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|solutionrelative:tepebasibilgisistemi.business\\concrete\\kursmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.business\\concrete\\kadromanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|solutionrelative:tepebasibilgisistemi.business\\concrete\\kadromanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.business\\concrete\\isteksikayetmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|solutionrelative:tepebasibilgisistemi.business\\concrete\\isteksikayetmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.business\\concrete\\etkinlikmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|solutionrelative:tepebasibilgisistemi.business\\concrete\\etkinlikmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.business\\concrete\\egitimmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|solutionrelative:tepebasibilgisistemi.business\\concrete\\egitimmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.business\\concrete\\calisanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|solutionrelative:tepebasibilgisistemi.business\\concrete\\calisanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.business\\concrete\\butcemudurlukmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|solutionrelative:tepebasibilgisistemi.business\\concrete\\butcemudurlukmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.business\\abstract\\imahalleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|solutionrelative:tepebasibilgisistemi.business\\abstract\\imahalleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.business\\abstract\\ikursservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|solutionrelative:tepebasibilgisistemi.business\\abstract\\ikursservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.business\\abstract\\ikadroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|solutionrelative:tepebasibilgisistemi.business\\abstract\\ikadroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.business\\abstract\\iisteksikayetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|solutionrelative:tepebasibilgisistemi.business\\abstract\\iisteksikayetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.business\\abstract\\ietkinlikservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|solutionrelative:tepebasibilgisistemi.business\\abstract\\ietkinlikservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.business\\abstract\\iegitimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|solutionrelative:tepebasibilgisistemi.business\\abstract\\iegitimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.business\\abstract\\icalisanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|solutionrelative:tepebasibilgisistemi.business\\abstract\\icalisanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.business\\abstract\\ibutcemudurlukservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|solutionrelative:tepebasibilgisistemi.business\\abstract\\ibutcemudurlukservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.dataaccess\\abstract\\imahalledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|solutionrelative:tepebasibilgisistemi.dataaccess\\abstract\\imahalledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.dataaccess\\abstract\\ikursdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|solutionrelative:tepebasibilgisistemi.dataaccess\\abstract\\ikursdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.dataaccess\\abstract\\ikadrodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|solutionrelative:tepebasibilgisistemi.dataaccess\\abstract\\ikadrodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.dataaccess\\abstract\\iisteksikayetdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|solutionrelative:tepebasibilgisistemi.dataaccess\\abstract\\iisteksikayetdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.dataaccess\\abstract\\ietkinlikdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|solutionrelative:tepebasibilgisistemi.dataaccess\\abstract\\ietkinlikdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.dataaccess\\abstract\\iegitimdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|solutionrelative:tepebasibilgisistemi.dataaccess\\abstract\\iegitimdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.dataaccess\\abstract\\icalisandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|solutionrelative:tepebasibilgisistemi.dataaccess\\abstract\\icalisandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.dataaccess\\abstract\\ibutcemudurlukdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|solutionrelative:tepebasibilgisistemi.dataaccess\\abstract\\ibutcemudurlukdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.dataaccess\\concrete\\entityframework\\efmahalledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|solutionrelative:tepebasibilgisistemi.dataaccess\\concrete\\entityframework\\efmahalledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.dataaccess\\concrete\\entityframework\\efkursdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|solutionrelative:tepebasibilgisistemi.dataaccess\\concrete\\entityframework\\efkursdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.dataaccess\\concrete\\entityframework\\efkadrodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|solutionrelative:tepebasibilgisistemi.dataaccess\\concrete\\entityframework\\efkadrodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.dataaccess\\concrete\\entityframework\\efisteksikayetdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|solutionrelative:tepebasibilgisistemi.dataaccess\\concrete\\entityframework\\efisteksikayetdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.dataaccess\\concrete\\entityframework\\efetkinlikdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|solutionrelative:tepebasibilgisistemi.dataaccess\\concrete\\entityframework\\efetkinlikdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.dataaccess\\concrete\\entityframework\\efegitimdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|solutionrelative:tepebasibilgisistemi.dataaccess\\concrete\\entityframework\\efegitimdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.dataaccess\\concrete\\entityframework\\efcalisandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|solutionrelative:tepebasibilgisistemi.dataaccess\\concrete\\entityframework\\efcalisandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.dataaccess\\concrete\\entityframework\\efbutcemudurlukdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|solutionrelative:tepebasibilgisistemi.dataaccess\\concrete\\entityframework\\efbutcemudurlukdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.dataaccess\\concrete\\entityframework\\tpbscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED7BCE2-E7D6-4931-8DA6-9AC37FAEF6A2}|TepebasiBilgiSistemi.DataAccess\\TepebasiBilgiSistemi.DataAccess.csproj|solutionrelative:tepebasibilgisistemi.dataaccess\\concrete\\entityframework\\tpbscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D0A5D9-8D7F-49EE-BA54-CCE69D1186FB}|TepebasiBilgiSistemi.Entities\\TepebasiBilgiSistemi.Entities.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.entities\\concrete\\kurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D0A5D9-8D7F-49EE-BA54-CCE69D1186FB}|TepebasiBilgiSistemi.Entities\\TepebasiBilgiSistemi.Entities.csproj|solutionrelative:tepebasibilgisistemi.entities\\concrete\\kurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D0A5D9-8D7F-49EE-BA54-CCE69D1186FB}|TepebasiBilgiSistemi.Entities\\TepebasiBilgiSistemi.Entities.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.entities\\concrete\\etkinlik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D0A5D9-8D7F-49EE-BA54-CCE69D1186FB}|TepebasiBilgiSistemi.Entities\\TepebasiBilgiSistemi.Entities.csproj|solutionrelative:tepebasibilgisistemi.entities\\concrete\\etkinlik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D0A5D9-8D7F-49EE-BA54-CCE69D1186FB}|TepebasiBilgiSistemi.Entities\\TepebasiBilgiSistemi.Entities.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.entities\\concrete\\mudurluk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D0A5D9-8D7F-49EE-BA54-CCE69D1186FB}|TepebasiBilgiSistemi.Entities\\TepebasiBilgiSistemi.Entities.csproj|solutionrelative:tepebasibilgisistemi.entities\\concrete\\mudurluk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D0A5D9-8D7F-49EE-BA54-CCE69D1186FB}|TepebasiBilgiSistemi.Entities\\TepebasiBilgiSistemi.Entities.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.entities\\concrete\\butcemudurluk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D0A5D9-8D7F-49EE-BA54-CCE69D1186FB}|TepebasiBilgiSistemi.Entities\\TepebasiBilgiSistemi.Entities.csproj|solutionrelative:tepebasibilgisistemi.entities\\concrete\\butcemudurluk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D0A5D9-8D7F-49EE-BA54-CCE69D1186FB}|TepebasiBilgiSistemi.Entities\\TepebasiBilgiSistemi.Entities.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.entities\\concrete\\mahalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D0A5D9-8D7F-49EE-BA54-CCE69D1186FB}|TepebasiBilgiSistemi.Entities\\TepebasiBilgiSistemi.Entities.csproj|solutionrelative:tepebasibilgisistemi.entities\\concrete\\mahalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D0A5D9-8D7F-49EE-BA54-CCE69D1186FB}|TepebasiBilgiSistemi.Entities\\TepebasiBilgiSistemi.Entities.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.entities\\concrete\\isteksikayet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D0A5D9-8D7F-49EE-BA54-CCE69D1186FB}|TepebasiBilgiSistemi.Entities\\TepebasiBilgiSistemi.Entities.csproj|solutionrelative:tepebasibilgisistemi.entities\\concrete\\isteksikayet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D0A5D9-8D7F-49EE-BA54-CCE69D1186FB}|TepebasiBilgiSistemi.Entities\\TepebasiBilgiSistemi.Entities.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.entities\\concrete\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D0A5D9-8D7F-49EE-BA54-CCE69D1186FB}|TepebasiBilgiSistemi.Entities\\TepebasiBilgiSistemi.Entities.csproj|solutionrelative:tepebasibilgisistemi.entities\\concrete\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.webui\\views\\baskan\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|solutionrelative:tepebasibilgisistemi.webui\\views\\baskan\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.webui\\views\\baskan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|solutionrelative:tepebasibilgisistemi.webui\\views\\baskan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.webui\\views\\mudurluk\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|solutionrelative:tepebasibilgisistemi.webui\\views\\mudurluk\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.webui\\views\\baskan\\baskanmudurluk.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|solutionrelative:tepebasibilgisistemi.webui\\views\\baskan\\baskanmudurluk.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.webui\\wwwroot\\css\\portal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|solutionrelative:tepebasibilgisistemi.webui\\wwwroot\\css\\portal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.webui\\controllers\\baskancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|solutionrelative:tepebasibilgisistemi.webui\\controllers\\baskancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.webui\\models\\baskanviewmodels\\baskanmudurlukcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|solutionrelative:tepebasibilgisistemi.webui\\models\\baskanviewmodels\\baskanmudurlukcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.webui\\views\\mudurluk\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|solutionrelative:tepebasibilgisistemi.webui\\views\\mudurluk\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.webui\\views\\baskan\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|solutionrelative:tepebasibilgisistemi.webui\\views\\baskan\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.webui\\views\\baskan\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|solutionrelative:tepebasibilgisistemi.webui\\views\\baskan\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|solutionrelative:tepebasibilgisistemi.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.webui\\models\\baskanviewmodels\\baskanupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|solutionrelative:tepebasibilgisistemi.webui\\models\\baskanviewmodels\\baskanupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.webui\\models\\baskanviewmodels\\baskanaddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|solutionrelative:tepebasibilgisistemi.webui\\models\\baskanviewmodels\\baskanaddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.webui\\controllers\\mudurlukcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|solutionrelative:tepebasibilgisistemi.webui\\controllers\\mudurlukcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.webui\\models\\baskanviewmodels\\baskanindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|solutionrelative:tepebasibilgisistemi.webui\\models\\baskanviewmodels\\baskanindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.webui\\views\\mudurluk\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|solutionrelative:tepebasibilgisistemi.webui\\views\\mudurluk\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.webui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|solutionrelative:tepebasibilgisistemi.webui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MahalleManager.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Concrete\\MahalleManager.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Concrete\\MahalleManager.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Concrete\\MahalleManager.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.Business\\Concrete\\MahalleManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T13:18:38.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KursManager.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Concrete\\KursManager.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Concrete\\KursManager.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Concrete\\KursManager.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.Business\\Concrete\\KursManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T13:17:50.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KadroManager.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Concrete\\KadroManager.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Concrete\\KadroManager.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Concrete\\KadroManager.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.Business\\Concrete\\KadroManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T13:16:24.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IstekSikayetManager.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Concrete\\IstekSikayetManager.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Concrete\\IstekSikayetManager.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Concrete\\IstekSikayetManager.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.Business\\Concrete\\IstekSikayetManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T13:11:29.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EtkinlikManager.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Concrete\\EtkinlikManager.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Concrete\\EtkinlikManager.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Concrete\\EtkinlikManager.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.Business\\Concrete\\EtkinlikManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T13:07:44.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EgitimManager.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Concrete\\EgitimManager.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Concrete\\EgitimManager.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Concrete\\EgitimManager.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.Business\\Concrete\\EgitimManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T13:07:12.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalisanManager.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Concrete\\CalisanManager.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Concrete\\CalisanManager.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Concrete\\CalisanManager.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.Business\\Concrete\\CalisanManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T13:06:40.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ButceMudurlukManager.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Concrete\\ButceMudurlukManager.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Concrete\\ButceMudurlukManager.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Concrete\\ButceMudurlukManager.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.Business\\Concrete\\ButceMudurlukManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T13:05:50.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMahalleService.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Abstract\\IMahalleService.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Abstract\\IMahalleService.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Abstract\\IMahalleService.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.Business\\Abstract\\IMahalleService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:21:13.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IKursService.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Abstract\\IKursService.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Abstract\\IKursService.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Abstract\\IKursService.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.Business\\Abstract\\IKursService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:20:47.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IKadroService.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Abstract\\IKadroService.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Abstract\\IKadroService.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Abstract\\IKadroService.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.Business\\Abstract\\IKadroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:20:15.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IIstekSikayetService.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Abstract\\IIstekSikayetService.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Abstract\\IIstekSikayetService.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Abstract\\IIstekSikayetService.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.Business\\Abstract\\IIstekSikayetService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:18:47.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEtkinlikService.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Abstract\\IEtkinlikService.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Abstract\\IEtkinlikService.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Abstract\\IEtkinlikService.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.Business\\Abstract\\IEtkinlikService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:14:45.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEgitimService.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Abstract\\IEgitimService.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Abstract\\IEgitimService.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Abstract\\IEgitimService.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.Business\\Abstract\\IEgitimService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:13:47.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICalisanService.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Abstract\\ICalisanService.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Abstract\\ICalisanService.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Abstract\\ICalisanService.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.Business\\Abstract\\ICalisanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:11:41.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IButceMudurlukService.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Abstract\\IButceMudurlukService.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Abstract\\IButceMudurlukService.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Abstract\\IButceMudurlukService.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.Business\\Abstract\\IButceMudurlukService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:06:50.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EfMahalleDal.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfMahalleDal.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfMahalleDal.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfMahalleDal.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfMahalleDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T06:56:24.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EfKursDal.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfKursDal.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfKursDal.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfKursDal.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfKursDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T06:55:57.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EfKadroDal.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfKadroDal.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfKadroDal.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfKadroDal.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfKadroDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T06:55:14.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EfIstekSikayetDal.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfIstekSikayetDal.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfIstekSikayetDal.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfIstekSikayetDal.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfIstekSikayetDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T06:54:51.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EfEtkinlikDal.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfEtkinlikDal.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfEtkinlikDal.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfEtkinlikDal.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfEtkinlikDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T06:54:24.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EfEgitimDal.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfEgitimDal.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfEgitimDal.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfEgitimDal.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfEgitimDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T06:53:58.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EfCalisanDal.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfCalisanDal.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfCalisanDal.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfCalisanDal.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfCalisanDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T06:53:05.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IMahalleDal.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Abstract\\IMahalleDal.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Abstract\\IMahalleDal.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Abstract\\IMahalleDal.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.DataAccess\\Abstract\\IMahalleDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T06:43:14.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IKursDal.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Abstract\\IKursDal.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Abstract\\IKursDal.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Abstract\\IKursDal.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.DataAccess\\Abstract\\IKursDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T06:42:34.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IKadroDal.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Abstract\\IKadroDal.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Abstract\\IKadroDal.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Abstract\\IKadroDal.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.DataAccess\\Abstract\\IKadroDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T06:42:14.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IIstekSikayetDal.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Abstract\\IIstekSikayetDal.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Abstract\\IIstekSikayetDal.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Abstract\\IIstekSikayetDal.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.DataAccess\\Abstract\\IIstekSikayetDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T06:41:43.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IEtkinlikDal.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Abstract\\IEtkinlikDal.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Abstract\\IEtkinlikDal.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Abstract\\IEtkinlikDal.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.DataAccess\\Abstract\\IEtkinlikDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T06:41:19.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IEgitimDal.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Abstract\\IEgitimDal.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Abstract\\IEgitimDal.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Abstract\\IEgitimDal.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.DataAccess\\Abstract\\IEgitimDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T06:40:58.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICalisanDal.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Abstract\\ICalisanDal.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Abstract\\ICalisanDal.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Abstract\\ICalisanDal.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.DataAccess\\Abstract\\ICalisanDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T06:40:35.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IButceMudurlukDal.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Abstract\\IButceMudurlukDal.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Abstract\\IButceMudurlukDal.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Abstract\\IButceMudurlukDal.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.DataAccess\\Abstract\\IButceMudurlukDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T06:40:01.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EfButceMudurlukDal.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfButceMudurlukDal.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfButceMudurlukDal.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfButceMudurlukDal.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfButceMudurlukDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T06:39:24.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TpbsContext.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\TpbsContext.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\TpbsContext.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\TpbsContext.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\TpbsContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T06:31:38.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Kurs.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Entities\\Concrete\\Kurs.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Entities\\Concrete\\Kurs.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Entities\\Concrete\\Kurs.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.Entities\\Concrete\\Kurs.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T07:34:25.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Etkinlik.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Entities\\Concrete\\Etkinlik.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Entities\\Concrete\\Etkinlik.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Entities\\Concrete\\Etkinlik.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.Entities\\Concrete\\Etkinlik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T07:31:27.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ButceMudurluk.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Entities\\Concrete\\ButceMudurluk.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Entities\\Concrete\\ButceMudurluk.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Entities\\Concrete\\ButceMudurluk.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.Entities\\Concrete\\ButceMudurluk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T05:57:59.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IstekSikayet.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Entities\\Concrete\\IstekSikayet.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Entities\\Concrete\\IstekSikayet.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Entities\\Concrete\\IstekSikayet.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.Entities\\Concrete\\IstekSikayet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:50:23.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Mahalle.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Entities\\Concrete\\Mahalle.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Entities\\Concrete\\Mahalle.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Entities\\Concrete\\Mahalle.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.Entities\\Concrete\\Mahalle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:43:37.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Calisan.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Entities\\Concrete\\Calisan.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Entities\\Concrete\\Calisan.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Entities\\Concrete\\Calisan.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.Entities\\Concrete\\Calisan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:19:45.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Views\\Baskan\\Detail.cshtml",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Views\\Baskan\\Detail.cshtml",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Views\\Baskan\\Detail.cshtml",
+              "RelativeToolTip": "TepebasiBilgiSistemi.WebUI\\Views\\Baskan\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T06:54:49.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BaskanMudurluk.cshtml",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Views\\Baskan\\BaskanMudurluk.cshtml",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Views\\Baskan\\BaskanMudurluk.cshtml",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Views\\Baskan\\BaskanMudurluk.cshtml",
+              "RelativeToolTip": "TepebasiBilgiSistemi.WebUI\\Views\\Baskan\\BaskanMudurluk.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T06:38:33.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "BaskanMudurlukCreateViewModel.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Models\\BaskanViewModels\\BaskanMudurlukCreateViewModel.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Models\\BaskanViewModels\\BaskanMudurlukCreateViewModel.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Models\\BaskanViewModels\\BaskanMudurlukCreateViewModel.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.WebUI\\Models\\BaskanViewModels\\BaskanMudurlukCreateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T13:38:03.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BaskanController.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Controllers\\BaskanController.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Controllers\\BaskanController.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Controllers\\BaskanController.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.WebUI\\Controllers\\BaskanController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAuwJEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:57:14.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Views\\Mudurluk\\Index.cshtml",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Views\\Mudurluk\\Index.cshtml",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Views\\Mudurluk\\Index.cshtml",
+              "RelativeToolTip": "TepebasiBilgiSistemi.WebUI\\Views\\Mudurluk\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T10:18:50.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Views\\Baskan\\Index.cshtml",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Views\\Baskan\\Index.cshtml",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Views\\Baskan\\Index.cshtml",
+              "RelativeToolTip": "TepebasiBilgiSistemi.WebUI\\Views\\Baskan\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T06:02:49.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Views\\Baskan\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Views\\Baskan\\Edit.cshtml",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Views\\Baskan\\Edit.cshtml",
+              "RelativeToolTip": "TepebasiBilgiSistemi.WebUI\\Views\\Baskan\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T06:04:13.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Views\\Baskan\\Create.cshtml",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Views\\Baskan\\Create.cshtml",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Views\\Baskan\\Create.cshtml",
+              "RelativeToolTip": "TepebasiBilgiSistemi.WebUI\\Views\\Baskan\\Create.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T06:04:04.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "BaskanUpdateViewModel.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Models\\BaskanViewModels\\BaskanUpdateViewModel.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Models\\BaskanViewModels\\BaskanUpdateViewModel.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Models\\BaskanViewModels\\BaskanUpdateViewModel.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.WebUI\\Models\\BaskanViewModels\\BaskanUpdateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T06:01:22.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "BaskanAddViewModel.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Models\\BaskanViewModels\\BaskanAddViewModel.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Models\\BaskanViewModels\\BaskanAddViewModel.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Models\\BaskanViewModels\\BaskanAddViewModel.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.WebUI\\Models\\BaskanViewModels\\BaskanAddViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T06:01:13.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "MudurlukController.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Controllers\\MudurlukController.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Controllers\\MudurlukController.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Controllers\\MudurlukController.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.WebUI\\Controllers\\MudurlukController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T07:03:41.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "BaskanIndexViewModel.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Models\\BaskanViewModels\\BaskanIndexViewModel.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Models\\BaskanViewModels\\BaskanIndexViewModel.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Models\\BaskanViewModels\\BaskanIndexViewModel.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.WebUI\\Models\\BaskanViewModels\\BaskanIndexViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T06:00:47.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Mudurluk.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Entities\\Concrete\\Mudurluk.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Entities\\Concrete\\Mudurluk.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Entities\\Concrete\\Mudurluk.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.Entities\\Concrete\\Mudurluk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:22:02.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TepebasiBilgiSistemi.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAAAFcBAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T12:21:15.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "portal.css",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\wwwroot\\css\\portal.css",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\wwwroot\\css\\portal.css",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\wwwroot\\css\\portal.css",
+              "RelativeToolTip": "TepebasiBilgiSistemi.WebUI\\wwwroot\\css\\portal.css",
+              "ViewState": "AgIAACQqAAAAAAAAAAAuwEMqAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-02T12:14:41.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TepebasiBilgiSistemi.WebUI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T10:48:27.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Views\\Mudurluk\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Views\\Mudurluk\\Edit.cshtml",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Views\\Mudurluk\\Edit.cshtml",
+              "RelativeToolTip": "TepebasiBilgiSistemi.WebUI\\Views\\Mudurluk\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T10:19:10.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Views\\Mudurluk\\Create.cshtml",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Views\\Mudurluk\\Create.cshtml",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Views\\Mudurluk\\Create.cshtml",
+              "RelativeToolTip": "TepebasiBilgiSistemi.WebUI\\Views\\Mudurluk\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T10:19:01.546Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

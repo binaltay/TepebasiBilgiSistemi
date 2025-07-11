@@ -1,0 +1,93 @@
+﻿@model TepebasiBilgiSistemi.WebUI.Models.BaskanViewModels.BaskanUpdateViewModel
+@{
+}
+
+<div class="col-12">
+	<form method="post" asp-action="Edit" asp-controller="Baskan" enctype="multipart/form-data" class="settings-form">
+		<div class="app-card app-card-account shadow-sm d-flex flex-column align-items-start">
+			<div class="app-card-header p-3 border-bottom-0">
+				<div class="row align-items-center gx-3">
+					<div class="col-auto">
+						<div class="app-icon-holder">
+							<i style="font-size:4em;" class="fa-solid fa-building-flag"></i>
+
+						</div><!--//icon-holder-->
+
+					</div><!--//col-->
+					<div class="col-auto">
+						<h4 class="app-card-title">Baskan Ekle</h4>
+					</div><!--//col-->
+				</div><!--//row-->
+			</div><!--//app-card-header-->
+			<div class="app-card-body px-4 w-100">
+
+				<div class="mb-3">
+					<div class="file-upload">
+						<div class="image-upload-wrap">
+							<input name="baskanPhoto" class="file-upload-input" type='file' onchange="readURL(this);" accept="image/*" />
+							<div class="drag-text">
+								<h3>Fotoğraf eklemek için sürükle bırak ya da seç</h3>
+							</div>
+						</div>
+						<div class="file-upload-content">
+							<img class="file-upload-image" src="~/Uploads/baskan/@Model.Baskan.PhotoLink" alt="your image" />
+							<div class="image-title-wrap">
+								<button type="button" onclick="removeUpload()" class="remove-image"><i class="fa-solid fa-xmark"></i></button>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="mb-3">
+					<label for="setting-input-1" class="form-label">
+						Baskan Adı<span class="ms-2" data-bs-container="body" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-placement="top" data-bs-content="This is a Bootstrap popover example. You can use popover to provide extra info.">
+						</span>
+					</label>
+					<input asp-for="Baskan.Name" type="text" class="form-control" id="setting-input-1" placeholder="Baskan Adı" required>
+				</div>
+
+
+			</div><!--//app-card-body-->
+			<div class="app-card-footer p-4 mt-auto">
+				<button type="submit" class="btn app-btn-primary">Kaydet</button>
+			</div><!--//app-card-footer-->
+
+		</div><!--//app-card-->
+	</form>
+</div>
+
+@section Scripts {
+	<script>
+				function readURL(input) {
+		  if (input.files && input.files[0]) {
+
+			var reader = new FileReader();
+
+			reader.onload = function(e) {
+			  $('.image-upload-wrap').hide();
+
+			  $('.file-upload-image').attr('src', e.target.result);
+			  $('.file-upload-content').show();
+
+			  $('.image-title').html(input.files[0].name);
+			};
+
+			reader.readAsDataURL(input.files[0]);
+
+		  } else {
+			removeUpload();
+		  }
+		}
+
+		function removeUpload() {
+		  $('.file-upload-input').replaceWith($('.file-upload-input').clone());
+		  $('.file-upload-content').hide();
+		  $('.image-upload-wrap').show();
+		}
+		$('.image-upload-wrap').bind('dragover', function () {
+				$('.image-upload-wrap').addClass('image-dropping');
+			});
+			$('.image-upload-wrap').bind('dragleave', function () {
+				$('.image-upload-wrap').removeClass('image-dropping');
+		});
+	</script>
+}
