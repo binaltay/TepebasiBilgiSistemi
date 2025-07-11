@@ -47,6 +47,5 @@ namespace TepebasiBilgiSistemi.Business.Concrete
         {
             _mahalleDal.Update(mahalle);
         }
-
     }
 }

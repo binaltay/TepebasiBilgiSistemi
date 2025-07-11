@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71905D62-8B53-48C0-9517-A59F2DF5644E}|TepebasiBilgiSistemi.WebUI\\TepebasiBilgiSistemi.WebUI.csproj|solutionrelative:tepebasibilgisistemi.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|d:\\newworkspace\\tepebasibilgisistemi\\tepebasibilgisistemi.business\\concrete\\mahallemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED7207A9-5481-49CD-8D00-473D33D4AFFD}|TepebasiBilgiSistemi.Business\\TepebasiBilgiSistemi.Business.csproj|solutionrelative:tepebasibilgisistemi.business\\concrete\\mahallemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -238,8 +242,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Program.cs",
+              "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Program.cs",
+              "RelativeToolTip": "TepebasiBilgiSistemi.WebUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T13:48:36.641Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
@@ -254,20 +271,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MahalleManager.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Concrete\\MahalleManager.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Concrete\\MahalleManager.cs",
               "ToolTip": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Concrete\\MahalleManager.cs",
               "RelativeToolTip": "TepebasiBilgiSistemi.Business\\Concrete\\MahalleManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T13:18:38.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "KursManager.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Concrete\\KursManager.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Concrete\\KursManager.cs",
@@ -279,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "KadroManager.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Concrete\\KadroManager.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Concrete\\KadroManager.cs",
@@ -291,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IstekSikayetManager.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Concrete\\IstekSikayetManager.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Concrete\\IstekSikayetManager.cs",
@@ -303,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "EtkinlikManager.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Concrete\\EtkinlikManager.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Concrete\\EtkinlikManager.cs",
@@ -315,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "EgitimManager.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Concrete\\EgitimManager.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Concrete\\EgitimManager.cs",
@@ -327,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CalisanManager.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Concrete\\CalisanManager.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Concrete\\CalisanManager.cs",
@@ -339,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ButceMudurlukManager.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Concrete\\ButceMudurlukManager.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Concrete\\ButceMudurlukManager.cs",
@@ -351,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "IMahalleService.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Abstract\\IMahalleService.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Abstract\\IMahalleService.cs",
@@ -363,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IKursService.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Abstract\\IKursService.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Abstract\\IKursService.cs",
@@ -375,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "IKadroService.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Abstract\\IKadroService.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Abstract\\IKadroService.cs",
@@ -387,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IIstekSikayetService.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Abstract\\IIstekSikayetService.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Abstract\\IIstekSikayetService.cs",
@@ -399,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "IEtkinlikService.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Abstract\\IEtkinlikService.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Abstract\\IEtkinlikService.cs",
@@ -411,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "IEgitimService.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Abstract\\IEgitimService.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Abstract\\IEgitimService.cs",
@@ -423,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ICalisanService.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Abstract\\ICalisanService.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Abstract\\ICalisanService.cs",
@@ -435,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "IButceMudurlukService.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Business\\Abstract\\IButceMudurlukService.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Business\\Abstract\\IButceMudurlukService.cs",
@@ -447,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "EfMahalleDal.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfMahalleDal.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfMahalleDal.cs",
@@ -459,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "EfKursDal.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfKursDal.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfKursDal.cs",
@@ -471,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "EfKadroDal.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfKadroDal.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfKadroDal.cs",
@@ -483,7 +500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "EfIstekSikayetDal.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfIstekSikayetDal.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfIstekSikayetDal.cs",
@@ -495,7 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "EfEtkinlikDal.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfEtkinlikDal.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfEtkinlikDal.cs",
@@ -507,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "EfEgitimDal.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfEgitimDal.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfEgitimDal.cs",
@@ -519,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "EfCalisanDal.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfCalisanDal.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfCalisanDal.cs",
@@ -531,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "IMahalleDal.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Abstract\\IMahalleDal.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Abstract\\IMahalleDal.cs",
@@ -543,7 +560,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "IKursDal.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Abstract\\IKursDal.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Abstract\\IKursDal.cs",
@@ -555,7 +572,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "IKadroDal.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Abstract\\IKadroDal.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Abstract\\IKadroDal.cs",
@@ -567,7 +584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "IIstekSikayetDal.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Abstract\\IIstekSikayetDal.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Abstract\\IIstekSikayetDal.cs",
@@ -579,7 +596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "IEtkinlikDal.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Abstract\\IEtkinlikDal.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Abstract\\IEtkinlikDal.cs",
@@ -591,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "IEgitimDal.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Abstract\\IEgitimDal.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Abstract\\IEgitimDal.cs",
@@ -603,7 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "ICalisanDal.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Abstract\\ICalisanDal.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Abstract\\ICalisanDal.cs",
@@ -615,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "IButceMudurlukDal.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Abstract\\IButceMudurlukDal.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Abstract\\IButceMudurlukDal.cs",
@@ -627,7 +644,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "EfButceMudurlukDal.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfButceMudurlukDal.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\EfButceMudurlukDal.cs",
@@ -639,7 +656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "TpbsContext.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\TpbsContext.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.DataAccess\\Concrete\\EntityFramework\\TpbsContext.cs",
@@ -651,7 +668,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "Kurs.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Entities\\Concrete\\Kurs.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Entities\\Concrete\\Kurs.cs",
@@ -663,7 +680,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "Etkinlik.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Entities\\Concrete\\Etkinlik.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Entities\\Concrete\\Etkinlik.cs",
@@ -675,7 +692,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "ButceMudurluk.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Entities\\Concrete\\ButceMudurluk.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Entities\\Concrete\\ButceMudurluk.cs",
@@ -687,7 +704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "IstekSikayet.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Entities\\Concrete\\IstekSikayet.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Entities\\Concrete\\IstekSikayet.cs",
@@ -699,7 +716,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "Mahalle.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Entities\\Concrete\\Mahalle.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Entities\\Concrete\\Mahalle.cs",
@@ -711,7 +728,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "Calisan.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Entities\\Concrete\\Calisan.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Entities\\Concrete\\Calisan.cs",
@@ -723,7 +740,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Views\\Baskan\\Detail.cshtml",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Views\\Baskan\\Detail.cshtml",
@@ -735,7 +752,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "BaskanMudurluk.cshtml",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Views\\Baskan\\BaskanMudurluk.cshtml",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Views\\Baskan\\BaskanMudurluk.cshtml",
@@ -747,7 +764,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "BaskanMudurlukCreateViewModel.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Models\\BaskanViewModels\\BaskanMudurlukCreateViewModel.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Models\\BaskanViewModels\\BaskanMudurlukCreateViewModel.cs",
@@ -759,7 +776,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "BaskanController.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Controllers\\BaskanController.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Controllers\\BaskanController.cs",
@@ -771,7 +788,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Views\\Mudurluk\\Index.cshtml",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Views\\Mudurluk\\Index.cshtml",
@@ -783,7 +800,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Views\\Baskan\\Index.cshtml",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Views\\Baskan\\Index.cshtml",
@@ -795,7 +812,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Views\\Baskan\\Edit.cshtml",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Views\\Baskan\\Edit.cshtml",
@@ -807,7 +824,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Views\\Baskan\\Create.cshtml",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Views\\Baskan\\Create.cshtml",
@@ -819,7 +836,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "BaskanUpdateViewModel.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Models\\BaskanViewModels\\BaskanUpdateViewModel.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Models\\BaskanViewModels\\BaskanUpdateViewModel.cs",
@@ -831,7 +848,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "BaskanAddViewModel.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Models\\BaskanViewModels\\BaskanAddViewModel.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Models\\BaskanViewModels\\BaskanAddViewModel.cs",
@@ -843,7 +860,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "MudurlukController.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Controllers\\MudurlukController.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Controllers\\MudurlukController.cs",
@@ -855,7 +872,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "BaskanIndexViewModel.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Models\\BaskanViewModels\\BaskanIndexViewModel.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Models\\BaskanViewModels\\BaskanIndexViewModel.cs",
@@ -867,7 +884,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "Mudurluk.cs",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.Entities\\Concrete\\Mudurluk.cs",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.Entities\\Concrete\\Mudurluk.cs",
@@ -879,7 +896,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Views\\Shared\\_Layout.cshtml",
@@ -891,7 +908,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "portal.css",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\wwwroot\\css\\portal.css",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\wwwroot\\css\\portal.css",
@@ -903,7 +920,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Views\\Home\\Index.cshtml",
@@ -915,7 +932,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Views\\Mudurluk\\Edit.cshtml",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Views\\Mudurluk\\Edit.cshtml",
@@ -927,7 +944,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\NewWorkspace\\TepebasiBilgiSistemi\\TepebasiBilgiSistemi.WebUI\\Views\\Mudurluk\\Create.cshtml",
               "RelativeDocumentMoniker": "TepebasiBilgiSistemi.WebUI\\Views\\Mudurluk\\Create.cshtml",

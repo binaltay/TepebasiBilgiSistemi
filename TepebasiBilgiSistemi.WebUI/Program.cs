@@ -19,14 +19,28 @@ builder.Services.AddSingleton<IFileProvider>(
 
 builder.Services.AddScoped<IBaskanService, BaskanManager>();
 builder.Services.AddScoped<IBaskanDal, EfBaskanDal>();
-builder.Services.AddScoped<IMudurlukService, MudurlukManager>();
-builder.Services.AddScoped<IMudurlukDal, EfMudurlukDal>();
-builder.Services.AddScoped<IBelgeMudurlukService, BelgeMudurlukManager>();
-builder.Services.AddScoped<IBelgeMudurlukDal, EfBelgeMudurlukDal>();
-builder.Services.AddScoped<IBelgeService, BelgeManager>();
-builder.Services.AddScoped<IBelgeDal, EfBelgeDal>();
 builder.Services.AddScoped<IBaskanMudurlukService, BaskanMudurlukManager>();
 builder.Services.AddScoped<IBaskanMudurlukDal, EfBaskanMudurlukDal>();
+builder.Services.AddScoped<IBelgeService, BelgeManager>();
+builder.Services.AddScoped<IBelgeDal, EfBelgeDal>();
+builder.Services.AddScoped<IBelgeMudurlukService, BelgeMudurlukManager>();
+builder.Services.AddScoped<IBelgeMudurlukDal, EfBelgeMudurlukDal>();
+builder.Services.AddScoped<IButceMudurlukService, ButceMudurlukManager>();
+builder.Services.AddScoped<IButceMudurlukDal, EfButceMudurlukDal>();
+builder.Services.AddScoped<ICalisanService, CalisanManager>();
+builder.Services.AddScoped<ICalisanDal, EfCalisanDal>();
+builder.Services.AddScoped<IEgitimService, EgitimManager>();
+builder.Services.AddScoped<IEgitimDal, EfEgitimDal>();
+
+builder.Services.AddScoped<IBelgeService, BelgeManager>();
+builder.Services.AddScoped<IBelgeDal, EfBelgeDal>();
+
+builder.Services.AddScoped<IBelgeService, BelgeManager>();
+builder.Services.AddScoped<IBelgeDal, EfBelgeDal>();
+
+
+builder.Services.AddScoped<IMudurlukService, MudurlukManager>();
+builder.Services.AddScoped<IMudurlukDal, EfMudurlukDal>();
 
 
 
